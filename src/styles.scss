@@ -1,0 +1,18 @@
+.container {
+    width: 280px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow: hidden;
+    border-radius: 160px;
+    border: 1px solid;
+    background-color: rgb(0, 0, 0);
+}
+
+p {
+    font-size: 12px;
+    display: inline;
+    margin: 0;
+    color: #3EFF38;
+}
